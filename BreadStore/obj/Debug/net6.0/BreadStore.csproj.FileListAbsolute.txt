@@ -1,0 +1,78 @@
+F:\University\E-Commerce\BreadStore\BreadStore\bin\Debug\net6.0\appsettings.Development.json
+F:\University\E-Commerce\BreadStore\BreadStore\bin\Debug\net6.0\appsettings.json
+F:\University\E-Commerce\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.staticwebassets.runtime.json
+F:\University\E-Commerce\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.exe
+F:\University\E-Commerce\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.deps.json
+F:\University\E-Commerce\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.runtimeconfig.json
+F:\University\E-Commerce\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.dll
+F:\University\E-Commerce\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.pdb
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.csproj.AssemblyReference.cache
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.AssemblyInfoInputs.cache
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.AssemblyInfo.cs
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.csproj.CoreCompileInputs.cache
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.MvcApplicationPartsAssemblyInfo.cache
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.RazorAssemblyInfo.cache
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.RazorAssemblyInfo.cs
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\staticwebassets.build.json
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\staticwebassets.development.json
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\bundle\BreadStore.styles.css
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\projectbundle\BreadStore.bundle.scp.css
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.dll
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\refint\BreadStore.dll
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.pdb
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.genruntimeconfig.cache
+F:\University\E-Commerce\BreadStore\BreadStore\obj\Debug\net6.0\ref\BreadStore.dll
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.staticwebassets.runtime.json
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.exe
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.deps.json
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.runtimeconfig.json
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.dll
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.pdb
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.csproj.AssemblyReference.cache
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.AssemblyInfoInputs.cache
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.AssemblyInfo.cs
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.csproj.CoreCompileInputs.cache
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.RazorAssemblyInfo.cache
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.RazorAssemblyInfo.cs
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\bundle\BreadStore.styles.css
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\projectbundle\BreadStore.bundle.scp.css
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.dll
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\refint\BreadStore.dll
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.pdb
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.genruntimeconfig.cache
+C:\Users\Kavi\Desktop\BreadStore\BreadStore\obj\Debug\net6.0\ref\BreadStore.dll
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\bin\Debug\net6.0\appsettings.Development.json
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\bin\Debug\net6.0\appsettings.json
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.staticwebassets.runtime.json
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.exe
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.deps.json
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.runtimeconfig.json
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.dll
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\bin\Debug\net6.0\BreadStore.pdb
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.csproj.AssemblyReference.cache
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.AssemblyInfoInputs.cache
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.AssemblyInfo.cs
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.csproj.CoreCompileInputs.cache
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.MvcApplicationPartsAssemblyInfo.cache
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.RazorAssemblyInfo.cache
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.RazorAssemblyInfo.cs
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\staticwebassets.build.json
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\staticwebassets.development.json
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\bundle\BreadStore.styles.css
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\scopedcss\projectbundle\BreadStore.bundle.scp.css
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.dll
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\refint\BreadStore.dll
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.pdb
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\BreadStore.genruntimeconfig.cache
+F:\Semester Notes\3rd Year\3-2 Notes\E-Commerce\Practical\BreadStore\BreadStore\obj\Debug\net6.0\ref\BreadStore.dll
